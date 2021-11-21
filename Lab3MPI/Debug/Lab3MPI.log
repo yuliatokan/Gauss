@@ -1,0 +1,4 @@
+﻿  Lab3MPI.cpp
+C:\Users\Yulia\source\repos\Lab3MPI\Lab3MPI\Lab3MPI.cpp(124,9): warning C4101: MaxValue: неиспользованная локальная переменная
+C:\Users\Yulia\source\repos\Lab3MPI\Lab3MPI\Lab3MPI.cpp(223,35): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Lab3MPI.vcxproj -> C:\Users\Yulia\source\repos\Lab3MPI\Debug\Lab3MPI.exe
